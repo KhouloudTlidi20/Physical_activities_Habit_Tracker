@@ -5,6 +5,7 @@ If you want to see the final project go to the links below
 Link [here](https://https://pixe.la/v1/users/khouloud/graphs/graph2.html)
 ## Steps to create your habit tracker:
 1. First create your 
+2. 
 
 
 ## Resources:

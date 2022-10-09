@@ -4,7 +4,7 @@ Recently, I have decided to keep on fit for my healthcare, but in a statistical 
 - requests.get()                        
 - requests.post()                                              
 - requests.put() (to update)
-- requests.delete() (juste to delete a tracking graph, not in our case).
+- requests.delete() (just to delete a tracking graph, not in our case).                                                                                                    
 For the moment I have created a tracking graph for my jogging habit and how much calories I burn, with time I will add probably others habit for example reading, coding etc, so this programme is so helpful to track your habit easily (once your graph is created it becomes handy forever).
 If you want to see the final project go to the links below
 - Jogging: (https://pixe.la/v1/users/khouloud/graphs/graph1.html)

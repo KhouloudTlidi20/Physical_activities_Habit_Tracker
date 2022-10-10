@@ -18,6 +18,9 @@ Application Programming Interface is a technology intermediary allowing two appl
       Pixela: 
 Is the Pixelation API service. With this service, you can get everything you want like a graph that expresses the degree of your daily various activities on a basis with a vivid gradation.
 
+## 🔧 Tools:
+- Python basics
+- Python IDE like (Atom, PyCharm, Visual studio Code, Replit (online IDE))
 
 ## 📜 Steps to create your habit tracker:
 1. Create a user in pixela (you find the code☝🏻)

@@ -14,6 +14,7 @@ If you want to see the final project go to the links below
 ### 📌 Keywords:
       API:
 Application Programming Interface is a technology intermediary allowing two applications to talk to each other. Each time you use an app like Facebook, send an instant message, or check the weather on your phone, you’re using an API. It has endpoints & Parameters, the endpoint is like a location where the data can be found, the parameters depend on APIs some of them are required others are optional, in our case for example to create a new user in pixela you need a token, it is required.
+
       Pixela: 
 Is the Pixelation API service. With this service, you can get everything you want like a graph that expresses the degree of your daily various activities on a basis with a vivid gradation.
 

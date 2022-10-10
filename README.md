@@ -1,6 +1,6 @@
 # Physical_activities_Habit_Tracker
 ## Overview
-Recently, I have decided to keep on fit for my healthcare, but in a statistical way, so I've thought of a program which can help me to track my physical activities and tell when was the last time I exercised?, how much I did? etc. Because I am someone who doesn't love empty squares, each time I get motivated to fill the pixel with the maximum quantity, so I think this is a motivating way to carry on and achieve my goal.\
+Recently, I have decided to keep on fit for my healthcare, but in a statistical way, so I've thought of a program which can help me to track my physical activities and tell when was the last time I exercised? how much I did? etc. Because I am someone who doesn't love empty squares, each time I get motivated to fill the pixel with the maximum quantity, so I think this is a motivating way to carry on and achieve my goal.\
 Beside that you learn more by practicing (python in my case). Actually, this project require having a bit of knowledge on APIs, it calls as well advanced authentication requests like:                                                                               
 - requests.get()                        
 - requests.post()                                              
@@ -13,8 +13,9 @@ If you want to see the final project go to the links below
 - [Burn_Calories](https://pixe.la/v1/users/khouloud/graphs/graph2.html)
 ### 📌 Keywords:
   API:
-  Application Programming Interface is a technology intermediary allowing two applications to talk to each other. Each time you use an app like Facebook, send an instant message, or check the weather on your phone, you’re using an API. It has endpoints & Parameters, the endpoint is like a location where the data can be found, the parameters depend on APIs some of them are required others are optional, in our case for example to create a new user in pixela you need a token, it is required.
-  Pixela: is the Pixelation API service. With this service, you can get everything you want like a graph that expresses the degree of your daily various activities on a basis with a vivid gradation.
+Application Programming Interface is a technology intermediary allowing two applications to talk to each other. Each time you use an app like Facebook, send an instant message, or check the weather on your phone, you’re using an API. It has endpoints & Parameters, the endpoint is like a location where the data can be found, the parameters depend on APIs some of them are required others are optional, in our case for example to create a new user in pixela you need a token, it is required.
+  Pixela: 
+Is the Pixelation API service. With this service, you can get everything you want like a graph that expresses the degree of your daily various activities on a basis with a vivid gradation.
 
 
 ## 📜 Steps to create your habit tracker:
